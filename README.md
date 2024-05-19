@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is [Your Name] and I'm a passionate developer from Denmark.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h3 align="left">✨ Creating bugs since [Year]<br>📚 I'm currently learning [Topic/Technology]<br>🎯 Goals: [Your Goals]<br>🎲 Fun fact: [Fun Fact]</p>
 
 ###
 
