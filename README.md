@@ -20,6 +20,7 @@
 
 <h3 align="left">💬 Get in Touch</h3>
 <p align="left"> For questions about programming or any of my repositories, feel free to contact me on Discord: <code>steff0266</code> </p>
+- My Discord: https://discord.gg/SyNGm3eXmP
 
 ###
 
