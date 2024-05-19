@@ -19,7 +19,10 @@
 ###
 
 <h3 align="left">💬 Get in Touch</h3>
-<p align="left"> For questions about programming or any of my projects, feel free to contact me on Discord: ```steff0266``` </p>
+<p align="left"> For questions about programming or any of my projects, feel free to contact me on Discord: 
+  ```
+  steff0266
+  ``` </p>
 
 ###
 
