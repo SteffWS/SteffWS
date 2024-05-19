@@ -6,7 +6,7 @@
 
 ###
 
-I have a passion for delving into intricate problems, seeking out refined solutions, and relish the process of brainstorming innovative concepts and translating them into functional code. Outside of coding, I find solace in connecting with nature, and at present, I'm dedicated to expanding my skills in PHP, JavaScript, and React.
+I have a passion for delving into intricate problems, seeking out refined solutions, and relish the process of brainstorming innovative concepts and translating them into functional code. Outside of coding, I find solace in weight training, and at present, I'm dedicated to expanding my skills in PHP, JavaScript, and React.
 
 ###
 
