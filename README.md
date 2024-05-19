@@ -6,14 +6,7 @@
 
 ###
 
-<h3 align="left">📝 About me</h3>
-
-###
-
-<p align="left">🚀 I enjoy tackling complex problems and finding elegant solutions.</p>
-<p align="left">💡 I love brainstorming creative ideas and bringing them to life through code.</p>
-<p align="left">🌿 When I'm not coding, I'm somewhat toucing grass.</p>
-<p align="left">📚 I'm currently learning PHP, JavaScript & React.</p>
+I have a passion for delving into intricate problems, seeking out refined solutions, and relish the process of brainstorming innovative concepts and translating them into functional code. Outside of coding, I find solace in connecting with nature, and at present, I'm dedicated to expanding my skills in PHP, JavaScript, and React.
 
 ###
 
