@@ -2,11 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Steff, a passionate developer hailing from Denmark! I thrive on learning new technologies and languages, constantly expanding my skill set to tackle exciting projects. My primary expertise lies in C#, Lua, HTML, and CSS, with a knack for JavaScript as well.</h4>
-
-###
-
-<img align="right" height="200" src="https://imgur.com/YwYGyvS.jpg"  />
+<p align="left">My name is Steff, a passionate developer hailing from Denmark! I thrive on learning new technologies and languages, constantly expanding my skill set to tackle exciting projects. My primary expertise lies in C#, Lua, HTML, and CSS, with a knack for JavaScript as well.</p>
 
 ###
 
@@ -44,6 +40,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
 
 ###
