@@ -1,8 +1,8 @@
-<h2 align="left">Hey 👋 What's up?</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Steff, a passionate developer hailing from Denmark! I thrive on learning new technologies and languages, constantly expanding my skill set to tackle exciting projects. My primary expertise lies in C#, Lua, HTML, and CSS, with a knack for JavaScript as well.</p>
+<h4 align="left">My name is Steff, a passionate developer hailing from Denmark! I thrive on learning new technologies and languages, constantly expanding my skill set to tackle exciting projects. My primary expertise lies in C#, Lua, HTML, and CSS, with a knack for JavaScript as well.</h4>
 
 ###
 
