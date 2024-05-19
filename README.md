@@ -10,6 +10,15 @@
 
 ###
 
+<p align="left">🚀 I enjoy tackling complex problems and finding elegant solutions.</p>
+<p align="left">🌱 I'm passionate about open-source projects and contributing to the community.</p>
+<p align="left">💡 I love brainstorming creative ideas and bringing them to life through code.</p>
+<p align="left">🎮 When I'm not coding, you can find me gaming or exploring the outdoors.</p>
+<p align="left">☕️ Let's grab a virtual coffee and chat about tech, innovation, or anything under the sun!</p>
+
+###
+
+
 <p align="left">📚 I'm currently learning PHP, JavaScript & React</p>
 
 ###
