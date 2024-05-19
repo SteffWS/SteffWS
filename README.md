@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Steff, a passionate developer hailing from Denmark! I thrive on learning new technologies and languages, constantly expanding my skill set to tackle exciting projects. My primary expertise lies in C#, Lua, HTML, and CSS, with a knack for JavaScript as well.</p>
+<p align="left">My name is Steff, a passionate developer coming from Denmark! I thrive on learning new technologies and languages, constantly expanding my skill set to tackle exciting projects. My primary expertise lies in C#, Lua, HTML, and CSS, with a knack for JavaScript as well.</p>
 
 ###
 
