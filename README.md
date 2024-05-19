@@ -14,10 +14,6 @@
 <p align="left">🌱 I'm passionate about open-source projects and contributing to the community.</p>
 <p align="left">💡 I love brainstorming creative ideas and bringing them to life through code.</p>
 <p align="left">🌿 When I'm not coding, I'm somewhat toucing grass</p>
-
-###
-
-
 <p align="left">📚 I'm currently learning PHP, JavaScript & React</p>
 
 ###
