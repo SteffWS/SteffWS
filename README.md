@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">My name is Steff, a passionate developer coming from Denmark! I thrive on learning new technologies and languages, constantly expanding my skill set to tackle exciting projects. My primary expertise lies in C#, Lua, HTML, and CSS, with a knack for JavaScript as well.</p>
-
-###
-
-I have a passion for delving into intricate problems, seeking out refined solutions, and relish the process of brainstorming innovative concepts and translating them into functional code. Outside of coding, I find solace in weight training, and at present, I'm dedicated to expanding my skills in PHP, JavaScript, and React.
+<p align="left">My name is Steff, and I’m a passionate full-stack developer from Denmark! While I’m skilled in back-end development, my true love lies in creating engaging and visually stunning front-end experiences. I’m always expanding my skill set to take on exciting new challenges. My expertise includes HTML, CSS, JavaScript, React, TailwindCSS, and more!</p>
 
 ###
 
